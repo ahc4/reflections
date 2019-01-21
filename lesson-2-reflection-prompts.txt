@@ -19,6 +19,7 @@ organized? How would branches help?
 	It's very helpful because branches are like tags, easy to organize and remember.
 
 How do the diagrams help you visualize the branch structure?
+	To see the older and latest commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
